@@ -116,8 +116,6 @@ useEffect(() => {
             </ul>
           )}
         </section>
-
-        <h1 className="text-white text-3xl">{searchTerm}</h1>
       </div>
     </main>
   );
